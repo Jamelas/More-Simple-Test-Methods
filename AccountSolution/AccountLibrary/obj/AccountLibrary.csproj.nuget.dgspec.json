@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jamie\\Desktop\\Study\\300\\158.326 - Software Construction\\Week 9\\Test Examples\\AccountSolution\\AccountLibrary\\AccountLibrary.csproj": {}
+    "C:\\Users\\Jamie\\Desktop\\Study\\300\\158.326 - Software Construction\\Week 10\\Account Solution\\AccountSolution\\AccountLibrary\\AccountLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jamie\\Desktop\\Study\\300\\158.326 - Software Construction\\Week 9\\Test Examples\\AccountSolution\\AccountLibrary\\AccountLibrary.csproj": {
+    "C:\\Users\\Jamie\\Desktop\\Study\\300\\158.326 - Software Construction\\Week 10\\Account Solution\\AccountSolution\\AccountLibrary\\AccountLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jamie\\Desktop\\Study\\300\\158.326 - Software Construction\\Week 9\\Test Examples\\AccountSolution\\AccountLibrary\\AccountLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Jamie\\Desktop\\Study\\300\\158.326 - Software Construction\\Week 10\\Account Solution\\AccountSolution\\AccountLibrary\\AccountLibrary.csproj",
         "projectName": "AccountLibrary",
-        "projectPath": "C:\\Users\\Jamie\\Desktop\\Study\\300\\158.326 - Software Construction\\Week 9\\Test Examples\\AccountSolution\\AccountLibrary\\AccountLibrary.csproj",
+        "projectPath": "C:\\Users\\Jamie\\Desktop\\Study\\300\\158.326 - Software Construction\\Week 10\\Account Solution\\AccountSolution\\AccountLibrary\\AccountLibrary.csproj",
         "packagesPath": "C:\\Users\\Jamie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jamie\\Desktop\\Study\\300\\158.326 - Software Construction\\Week 9\\Test Examples\\AccountSolution\\AccountLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Jamie\\Desktop\\Study\\300\\158.326 - Software Construction\\Week 10\\Account Solution\\AccountSolution\\AccountLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jamie\\AppData\\Roaming\\NuGet\\NuGet.Config",

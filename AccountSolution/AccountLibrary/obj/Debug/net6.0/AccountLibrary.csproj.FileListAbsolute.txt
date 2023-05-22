@@ -1,0 +1,12 @@
+C:\Users\Jamie\Desktop\Study\300\158.326 - Software Construction\Week 10\Account Solution\AccountSolution\AccountLibrary\bin\Debug\net6.0\AccountLibrary.deps.json
+C:\Users\Jamie\Desktop\Study\300\158.326 - Software Construction\Week 10\Account Solution\AccountSolution\AccountLibrary\bin\Debug\net6.0\AccountLibrary.dll
+C:\Users\Jamie\Desktop\Study\300\158.326 - Software Construction\Week 10\Account Solution\AccountSolution\AccountLibrary\bin\Debug\net6.0\AccountLibrary.pdb
+C:\Users\Jamie\Desktop\Study\300\158.326 - Software Construction\Week 10\Account Solution\AccountSolution\AccountLibrary\obj\Debug\net6.0\AccountLibrary.csproj.AssemblyReference.cache
+C:\Users\Jamie\Desktop\Study\300\158.326 - Software Construction\Week 10\Account Solution\AccountSolution\AccountLibrary\obj\Debug\net6.0\AccountLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\Desktop\Study\300\158.326 - Software Construction\Week 10\Account Solution\AccountSolution\AccountLibrary\obj\Debug\net6.0\AccountLibrary.AssemblyInfoInputs.cache
+C:\Users\Jamie\Desktop\Study\300\158.326 - Software Construction\Week 10\Account Solution\AccountSolution\AccountLibrary\obj\Debug\net6.0\AccountLibrary.AssemblyInfo.cs
+C:\Users\Jamie\Desktop\Study\300\158.326 - Software Construction\Week 10\Account Solution\AccountSolution\AccountLibrary\obj\Debug\net6.0\AccountLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\Desktop\Study\300\158.326 - Software Construction\Week 10\Account Solution\AccountSolution\AccountLibrary\obj\Debug\net6.0\AccountLibrary.dll
+C:\Users\Jamie\Desktop\Study\300\158.326 - Software Construction\Week 10\Account Solution\AccountSolution\AccountLibrary\obj\Debug\net6.0\refint\AccountLibrary.dll
+C:\Users\Jamie\Desktop\Study\300\158.326 - Software Construction\Week 10\Account Solution\AccountSolution\AccountLibrary\obj\Debug\net6.0\AccountLibrary.pdb
+C:\Users\Jamie\Desktop\Study\300\158.326 - Software Construction\Week 10\Account Solution\AccountSolution\AccountLibrary\obj\Debug\net6.0\ref\AccountLibrary.dll

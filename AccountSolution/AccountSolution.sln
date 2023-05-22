@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountLibrary", "AccountLibrary\AccountLibrary.csproj", "{7DBB1C9A-F5EB-4FD2-9EF6-7457ED51AFB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountLibrary", "AccountLibrary\AccountLibrary.csproj", "{7DBB1C9A-F5EB-4FD2-9EF6-7457ED51AFB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountTest", "AccountTest\AccountTest.csproj", "{E1F13488-4689-4A32-867B-8BEF76AA1054}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7DBB1C9A-F5EB-4FD2-9EF6-7457ED51AFB8} = {7DBB1C9A-F5EB-4FD2-9EF6-7457ED51AFB8}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +20,10 @@ Global
 		{7DBB1C9A-F5EB-4FD2-9EF6-7457ED51AFB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DBB1C9A-F5EB-4FD2-9EF6-7457ED51AFB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DBB1C9A-F5EB-4FD2-9EF6-7457ED51AFB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1F13488-4689-4A32-867B-8BEF76AA1054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F13488-4689-4A32-867B-8BEF76AA1054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F13488-4689-4A32-867B-8BEF76AA1054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F13488-4689-4A32-867B-8BEF76AA1054}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
